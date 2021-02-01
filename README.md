@@ -4,3 +4,5 @@ Repositorio de clases de la materia Programación Orientada a Objetos de la Univ
 Links importantes: 
 
 [ANACONDA PYTHON](https://www.anaconda.com/products/individual "ANACONDA PYTHON").
+
+[VISUAL CODE](https://code.visualstudio.com/Download "VISUAL CODE").
