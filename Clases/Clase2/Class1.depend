@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1675866549 source:c:\users\stark\desktop\clases\clase1\class1\automovil.cpp
+	"Automovil.h"
+
+1675866013 c:\users\stark\desktop\clases\clase1\class1\automovil.h
+	<iostream>
+	<sstream>
+
+1675866557 source:c:\users\stark\desktop\clases\clase1\class1\main.cpp
+	<iostream>
+	"Automovil.h"
+
