@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1660590288 source:c:\users\mathias\desktop\clase4\main.cpp
+	<iostream>
+	"Poligono.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
+1660584039 c:\users\mathias\desktop\clase4\poligono.h
+	<iostream>
+	<sstream>
+
+1660590130 source:c:\users\mathias\desktop\clase4\rectangulo.cpp
+	"Rectangulo.h"
+
+1660584469 c:\users\mathias\desktop\clase4\rectangulo.h
+	"Poligono.h"
+
+1660590130 source:c:\users\mathias\desktop\clase4\triangulo.cpp
+	"Triangulo.h"
+
+1660588983 c:\users\mathias\desktop\clase4\triangulo.h
+	"Poligono.h"
+
+1660593888 source:d:\descargas\clase4\clase4\main.cpp
+	<iostream>
+	"Poligono.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
+1660587639 d:\descargas\clase4\clase4\poligono.h
+	<iostream>
+	<sstream>
+
+1660588069 d:\descargas\clase4\clase4\rectangulo.h
+	"Poligono.h"
+
+1660592583 d:\descargas\clase4\clase4\triangulo.h
+	"Poligono.h"
+
+1660593730 source:d:\descargas\clase4\clase4\rectangulo.cpp
+	"Rectangulo.h"
+
+1660593730 source:d:\descargas\clase4\clase4\triangulo.cpp
+	"Triangulo.h"
+
