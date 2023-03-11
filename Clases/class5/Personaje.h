@@ -15,7 +15,7 @@ class Personaje
         Personaje(string _nombre, int _vida);
         void setVida(int new_vida);
         int getVida();
-        virtual void atacar(Personaje *Atacado);
+        virtual void atacar(Personaje *Atacado)=0;
         string toString();
 
 

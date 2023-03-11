@@ -5,6 +5,7 @@
 #include "Personaje.h"
 #include "Arma.h"
 #include "Jugador.h"
+#include "Enemigo.h"
 
 using namespace std;
 
@@ -31,6 +32,7 @@ int main()
     Jugador J1("Zelda",50,A1);
     cout<<J1.toString()<<endl;
 
+    // Como atacar
     Jugador J2("Link",50,A1);
     Personaje *Atacado = new Personaje();
     Atacado = &J1;

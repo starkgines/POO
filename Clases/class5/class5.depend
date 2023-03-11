@@ -1,15 +1,16 @@
 # depslib dependency file v1.0
-1678385598 source:c:\users\stark\desktop\clases\poo\clases\class5\main.cpp
+1678542396 source:c:\users\stark\desktop\clases\poo\clases\class5\main.cpp
 	<iostream>
 	<time.h>
 	"Personaje.h"
 	"Arma.h"
 	"Jugador.h"
+	"Enemigo.h"
 
 1678386231 source:c:\users\stark\desktop\clases\poo\clases\class5\personaje.cpp
 	"Personaje.h"
 
-1678386212 c:\users\stark\desktop\clases\poo\clases\class5\personaje.h
+1678542631 c:\users\stark\desktop\clases\poo\clases\class5\personaje.h
 	<sstream>
 	<time.h>
 
@@ -27,4 +28,13 @@
 
 1678386439 source:c:\users\stark\desktop\clases\poo\clases\class5\jugador.cpp
 	"Jugador.h"
+
+1678541996 c:\users\stark\desktop\clases\poo\clases\class5\enemigo.h
+	<sstream>
+	<time.h>
+	"Personaje.h"
+	"Arma.h"
+
+1678542083 source:c:\users\stark\desktop\clases\poo\clases\class5\enemigo.cpp
+	"Enemigo.h"
 
