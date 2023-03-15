@@ -2,18 +2,17 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="class5" />
+		<Option title="TP1" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Release">
-				<Option output="bin/Release/class5" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/TP1" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
-					<Add directory="./" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -24,14 +23,6 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Arma.cpp" />
-		<Unit filename="Arma.h" />
-		<Unit filename="Enemigo.cpp" />
-		<Unit filename="Enemigo.h" />
-		<Unit filename="Jugador.cpp" />
-		<Unit filename="Jugador.h" />
-		<Unit filename="Personaje.cpp" />
-		<Unit filename="Personaje.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
