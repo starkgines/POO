@@ -14,9 +14,12 @@ class Persona
         string getNombre();
         string getApellido();
 
-        void setCedula();
-        string setNombre();
-        string setApellido();
+        void setCedula(int _cedula);
+        void setNombre(string _nombre);
+        void setApellido(string _apellido);
+
+
+        string toString();
 
 
     private:

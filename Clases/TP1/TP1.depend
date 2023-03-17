@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1679064756 source:c:\users\stark\desktop\clases\poo\clases\tp1\alumno.cpp
+	"Alumno.h"
+
+1679065412 c:\users\stark\desktop\clases\poo\clases\tp1\alumno.h
+	<sstream>
+	"Persona.h"
+	"Materia.h"
+
+1679062824 c:\users\stark\desktop\clases\poo\clases\tp1\persona.h
+	<sstream>
+
+1679066216 source:c:\users\stark\desktop\clases\poo\clases\tp1\main.cpp
+	<iostream>
+	"Persona.h"
+	"Materia.h"
+	"Alumno.h"
+	"Profesor.h"
+
+1679063499 source:c:\users\stark\desktop\clases\poo\clases\tp1\materia.cpp
+	"Materia.h"
+
+1678892113 c:\users\stark\desktop\clases\poo\clases\tp1\materia.h
+	<sstream>
+
+1678890305 source:c:\users\stark\desktop\clases\poo\clases\tp1\profesor.cpp
+	"Profesor.h"
+
+1679066401 c:\users\stark\desktop\clases\poo\clases\tp1\profesor.h
+	<time.h>
+	<iostream>
+	"Persona.h"
+	"Materia.h"
+	<sstream>
+
+1679062834 source:c:\users\stark\desktop\clases\poo\clases\tp1\persona.cpp
+	"Persona.h"
+
