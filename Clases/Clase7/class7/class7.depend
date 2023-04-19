@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681316850 source:c:\users\mentormate\desktop\clases\poo\clases\clase7\class7\main.cpp
+	<iostream>
+	<vector>
+	"Nodo.h"
+	"Cola.h"
+
+1681316850 c:\users\mentormate\desktop\clases\poo\clases\clase7\class7\nodo.h
+
+1681321900 c:\users\mentormate\desktop\clases\poo\clases\clase7\class7\cola.h
+	"ColaVacia.h"
+	"Nodo.h"
+
+1681316850 c:\users\mentormate\desktop\clases\poo\clases\clase7\class7\colavacia.h
+	<exception>
+

@@ -50,7 +50,7 @@ public:
             return primero->dato;
         }
 
-        int buscar(T _dato) const {
+         int buscar(T _dato) const {
             Nodo<T> *aux=primero;
             int cont=0;
             while(aux!=NULL){

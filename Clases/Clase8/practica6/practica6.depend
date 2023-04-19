@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1427231993 source:c:\users\claudio\google drive\fiuna\practicas2015\practica6\cliente.cpp
+	"Cliente.h"
+
+1427477438 c:\users\claudio\google drive\fiuna\practicas2015\practica6\cliente.h
+	<iostream>
+
+1427485324 source:c:\users\claudio\google drive\fiuna\practicas2015\practica6\main.cpp
+	<iostream>
+	<fstream>
+	"Cliente.h"
+	<stdlib.h>
+
+1427235593 source:c:\users\claudio\downloads\practica6\practica6\cliente.cpp
+	"Cliente.h"
+
+1427481038 c:\users\claudio\downloads\practica6\practica6\cliente.h
+	<iostream>
+
+1427488924 source:c:\users\claudio\downloads\practica6\practica6\main.cpp
+	<iostream>
+	<fstream>
+	"Cliente.h"
+	<stdlib.h>
+

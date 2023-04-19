@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1680031022 source:c:\users\mentormate\desktop\clases\poo\clases\clase6\test_nodo\main.cpp
+1680033103 source:c:\users\mentormate\desktop\clases\poo\clases\clase6\test_nodo\main.cpp
 	<iostream>
 	"Nodo.h"
+	<exception>
+	<string>
 
-1680031151 c:\users\mentormate\desktop\clases\poo\clases\clase6\test_nodo\nodo.h
+1680113072 c:\users\mentormate\desktop\clases\poo\clases\clase6\test_nodo\nodo.h
+	<cstdlib>
 
