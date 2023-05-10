@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1599673356 source:c:\users\sscav\desktop\sobre\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1599672985 source:c:\users\sscav\desktop\sobre\fecha.cpp
+	"Fecha.h"
+
+1599673340 c:\users\sscav\desktop\sobre\fecha.h
+	<iostream>
+	<sstream>
+	"FechaNoValida.h"
+
+1599661807 c:\users\sscav\desktop\sobre\fechanovalida.h
+	<exception>
+
+1599673373 source:d:\descargas\sobrecarga\sobre\fecha.cpp
+	"Fecha.h"
+
+1599673340 d:\descargas\sobrecarga\sobre\fecha.h
+	<iostream>
+	<sstream>
+	"FechaNoValida.h"
+
+1599661807 d:\descargas\sobrecarga\sobre\fechanovalida.h
+	<exception>
+
+1599673837 source:d:\descargas\sobrecarga\sobre\main.cpp
+	<iostream>
+	"Fecha.h"
+

@@ -1,0 +1,9 @@
+50;cincuenta;
+50;cincuenta;
+100;cien;
+500;quinientos;
+1000;mil;
+1000;mil;
+1000;mil;
+1000;mil;
+100;cien;

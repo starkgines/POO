@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1430863484 source:c:\users\claudio\google drive\fiuna\practicas2015\practica9\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<stdio.h>
+	<string>
+	"Moneda.h"
+	<vector>
+
+1430860764 source:c:\users\claudio\google drive\fiuna\practicas2015\practica9\moneda.cpp
+	"Moneda.h"
+
+1430859817 c:\users\claudio\google drive\fiuna\practicas2015\practica9\moneda.h
+	<sstream>
+	<iostream>
+
+1531141807 source:c:\users\claudio\google drive\fiuna\poo\practicas2015\practica9\moneda.cpp
+	"Moneda.h"
+
+1531141257 c:\users\claudio\google drive\fiuna\poo\practicas2015\practica9\moneda.h
+	<sstream>
+	<iostream>
+
+1531141681 source:c:\users\claudio\google drive\fiuna\poo\practicas2015\practica9\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<stdio.h>
+	<string>
+	"Moneda.h"
+	<vector>
+
+1531141807 source:c:\users\claudio\downloads\practica9\practica9\moneda.cpp
+	"Moneda.h"
+
+1531141257 c:\users\claudio\downloads\practica9\practica9\moneda.h
+	<sstream>
+	<iostream>
+
+1531141807 source:d:\descargas\practica9\practica9\moneda.cpp
+	"Moneda.h"
+
+1531141257 d:\descargas\practica9\practica9\moneda.h
+	<sstream>
+	<iostream>
+
+1599616439 source:d:\descargas\practica9\practica9\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<stdio.h>
+	<string>
+	"Moneda.h"
+	<vector>
+
